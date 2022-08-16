@@ -1,7 +1,7 @@
 # Intro to kotlin
 
 **Basics**
-Below is a code snipet with a basic program that prints out a cake :). Big thing to notice is the lack of semi-colons, function reduce to fun, and val instead of declaring type like Java.
+Below is a code snipet with a basic program that prints out a cake :). Big thing to notice is the lack of semi-colons, function reduce to fun, and val instead of declaring type like Java. More to come!
 
 ``` Kotlin
 fun main() {
